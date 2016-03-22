@@ -1,5 +1,3 @@
-# scala-chess-puzzle
-
 
 Inroduction:
 ----------------
