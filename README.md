@@ -28,9 +28,13 @@ http://scala-ide.org/download/sdk.html.
 6. Instructions for running the program is described in the main function in Main.scala file
 7. A sample result is pasted below for  3x3 board with 2 Kings & 1 Rook
 8. Result for the Puzzle mentioned in Chess Problem 2-v2.docx :
+	
 	i.e. for problem: 6x9 board with 2Kings 1Rook 1Bishop 1Queen 1Knight
+
 	ANSWER: 30854803 possible arrangments
+
 	Detailed Results and instructions can be found in results.txt
+
 9.To disable printout  for results having Millions of possible arrangement comment out line 66 in Main.scala/solve
 
 
